@@ -3,7 +3,7 @@
 Tasks:
 
 - [x] [Week One](./wk-one/intro.dart)
-- [ ] [Week Two]()
+- [x] [Week Two](./wk-two/functions.dart)
 - [ ] [Week Three]()
 - [ ] [Week Four]()
 - [ ] [Week Five]()
